@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: grid;
+    grid-template-rows: auto auto 1fr auto;
+}
+
+.text-center:hover { 
+    color: red;
+}
+
+.form-control {
+    box-shadow: 5px 5px 10px
+    
+}
