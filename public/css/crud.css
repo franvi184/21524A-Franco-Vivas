@@ -1,5 +1,13 @@
 h4 {
     color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);   
+}
+
+.publicaciones {
+    border: 5px solid #3F9FFF;  
+    box-shadow: 10px 10px 10px ; 
+}
+
+.fotos{
+    margin-bottom: 20px;
 }

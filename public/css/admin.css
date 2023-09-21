@@ -9,7 +9,7 @@ body {
     display: grid;
     grid-template-rows: auto auto 1fr auto;
     position: relative;
-    padding-bottom: 5em;
+    padding-bottom: 5rem;
     min-height: 100vh;
 }
 
