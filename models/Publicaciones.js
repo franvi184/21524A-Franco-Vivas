@@ -18,6 +18,10 @@ const Publicacion = sequelize.define('Publicacion', {
         type: DataTypes.STRING(255),
         allowNull: true,
     },
+    autor_publicacion: {
+        type: DataTypes.STRING(255),
+        allowNull: false,
+    },
     fecha_publicacion: {
         type: DataTypes.DATE,
         allowNull: true,
